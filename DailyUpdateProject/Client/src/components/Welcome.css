@@ -1,0 +1,28 @@
+#c{
+    background-image: url(/src/images/bgg.PNG);
+    background-size: cover;
+    width: 1538px;
+    height: 640px;
+}
+#c2{
+    width: 1538px;
+    background-color: cadetblue;
+    height: 390px;
+    text-align: center;
+    margin-top: .1em;
+   
+}
+#crc{
+    margin-top: 3.5em;
+}
+#c3{
+    width: 1538px;
+    background-color: cadetblue;
+    height: 390px;
+    text-align: center;
+    margin-top: .1em;
+   
+}
+body{
+    background-color: white;
+}

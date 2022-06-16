@@ -1,0 +1,33 @@
+.Login {
+    border: 2px solid #d3d3d3;
+    border-radius: .5em;
+    margin-bottom: 1em;
+    margin-left: 29em;
+    margin-right: auto;
+    margin-top: 200px;
+    padding: 1em;
+    text-align: left;
+    width: 600px;
+    align-items: center;
+    vertical-align:middle;
+    align-self: center;
+    background-color: white;
+    
+  }
+  
+  .form {
+    padding: 1em;
+  }
+  #btn{
+      background-color: #24a0ed;
+  }
+  
+  label {
+    font-weight: 600;
+  }
+  body{
+    
+    background-image: url(/src/images/bgg.PNG);
+    background-size: cover;
+  }
+  

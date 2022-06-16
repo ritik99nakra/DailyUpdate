@@ -1,0 +1,48 @@
+#card1{
+    margin-top: 3em;
+    width: 500px;
+    margin-left: 6em;
+}
+#card2{
+    margin-top: 3em;
+    width: 500px;
+    margin-bottom: 5em;
+
+}
+body{
+    /* background-image: url(/src/images/bg.jpg); */
+    /* background-size: auto; */
+    background-color: rgb(217, 231, 238);
+
+    align-content: center;
+    align-items: center;
+}
+#card{
+    /* background-color: rgb(223, 232, 240); */
+    background-color: white;
+
+
+    border-color: black;
+    border-width: 1.5px;
+    margin-top: 10em;
+    margin-bottom: 10em;
+    margin-left: 10em;
+    margin-right: 10em;
+    width: 1300px;
+}
+#title{
+    text-align: center;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+#t{
+    text-align: center;
+    font-weight: 300;
+    
+}
+.Danger{
+    background-color: red;
+    width: fit-content;
+    align-self: center;
+}

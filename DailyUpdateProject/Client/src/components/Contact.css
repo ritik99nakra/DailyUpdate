@@ -1,0 +1,25 @@
+body{
+    /* background-color: rgba(255, 255, 255, 0.562); */
+    background-image: url(/src/images/bgg.PNG);
+    background-size: cover;
+    text-decoration-color: white;
+}
+#card1{
+    background-color:aliceblue ;
+    margin-left: 20em;
+    width: 400px;
+    margin-top: 10em;
+    align-content: center;
+    text-align: center;
+}
+#card2{
+    background-color: aliceblue;
+    width: 400px;
+    margin-left: 23em;
+    text-align: center;
+    margin-top: 10em;
+}
+#btn{
+    background-color: rgba(0, 0, 0, 0.842);
+    
+}
